@@ -5,7 +5,9 @@
 
 <p>Enthusiastic about technology, eager to keep constantly. I work with a wide stack of tools like React, Redux, NodeJs, Sequelize, PosrgreSQL, among others. </p>
 <p>You can reach me out at my linkedin or mail me at ttiger6666@gmail.com</p>
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axel-lois-740ba392/)](https://www.linkedin.com/in/samuel-ricardo-centeno-21a4aa214/)
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/samuel-ricardo-centeno-21a4aa214/)
 
 <h3 align="center">These are some of the tools on my stack</h3>
 
