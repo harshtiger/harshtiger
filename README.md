@@ -3,6 +3,8 @@
 <h2> Hello  there, I'm Sam!  </h2>
 <p><em>Fullstack web developer</em></p>
 
+<p>Enthusiastic about technology, eager to keep constantly. I work with a wide stack of tools like React, Redux, NodeJs, Sequelize, PosrgreSQL, among others. </p>
+<p>You can reach me out at my linkedin or mail me at ttiger6666@gmail.com</p>
 [![Linkedin: Samuel Centeno](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axel-lois-740ba392/)](https://www.linkedin.com/in/samuel-ricardo-centeno-21a4aa214/)
 
 
@@ -11,7 +13,7 @@
 
 <hr>
 
-### My lastest project: 
+### My lastest projects: 
 
 <h2> Food APP </h2>
 <br></br>
@@ -36,20 +38,8 @@
 <img src="https://i.ibb.co/NCxczgh/home.jpg" alt="home" border="0">
 <br></br>
 <br></br>
-<p> Create recipe </p>
-<img src="https://i.ibb.co/p21g8Q7/create.jpg" alt="create" border="0">
-<br></br>
-<br></br>
 <p> Recipe detail </p>
 <img src="https://i.ibb.co/GQrH4Nj/update.jpg" alt="update" border="0">
-<br></br>
-<br></br>
-<p> Delete recipe PopUp window </p>
-<img src="https://i.ibb.co/6R3wpYH/delete.jpg" alt="delete" border="0">
-<br></br>
-<br></br>
-<p> Not found recipe modal window </p>
-<img src="https://i.ibb.co/FX13WGz/notfoundrecipe.jpg" alt="notfoundrecipe" border="0">
 <br></br>
 <br></br>
 <p>404 Page  </p>
