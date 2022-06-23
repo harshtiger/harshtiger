@@ -5,7 +5,7 @@
 
 <p>Enthusiastic about technology, eager to keep constantly. I work with a wide stack of tools like React, Redux, NodeJs, Sequelize, PosrgreSQL, among others. </p>
 <p>You can reach me out at my linkedin or mail me at ttiger6666@gmail.com</p>
-Also, don't forget to look at my [portfolio](https://samuel-centeno.vercel.app/)
+Also, don't forget to look at my [[portfolio](https://samuel-centeno.vercel.app/)]
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/samuel-ricardo-centeno-21a4aa214/)
