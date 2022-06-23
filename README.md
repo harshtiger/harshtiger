@@ -34,7 +34,11 @@ Also, don't forget to look at https://samuel-centeno.vercel.app/ to check out so
 
 </p>
 <p>&nbsp;</p>
+<h3>Most used languages</h3>
+<p>&nbsp;</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshtiger&show_icons=true&locale=en&layout=compact" alt="patostickar" /></p>
 
+<p>&nbsp;</p>
 
 
 
