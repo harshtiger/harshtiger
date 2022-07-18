@@ -58,7 +58,7 @@ Also, don't forget to look at https://samuel-centeno.vercel.app/ to check out so
 <p>React, Redux, material UI, Styled Compoments, Vanilla JS, NodeJS, NodeExpress, Sequelize, PostgreSQL, Postman, Jest and Enzyme among others </p>
 <br></br>
 <img src="https://ibb.co/PWHC95p" alt="landing" border="0">
-<img src="https://ibb.co/0XQdrGS" alt="about" border="0">
+<img src="https://i.ibb.co/j5H1Dr2/p2.jpg" alt="about" border="0">
 
 
 
