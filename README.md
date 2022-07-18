@@ -59,7 +59,7 @@ Also, don't forget to look at https://samuel-centeno.vercel.app/ to check out so
 <br></br>
 <img src="https://i.ibb.co/KsvyL9Z/p1.jpg" alt="landing" border="0">
 <img src="https://i.ibb.co/j5H1Dr2/p2.jpg" alt="about" border="0">
-<a href:"https://carry.vercel.app/">deploy</a>
+<p>deploy https://carry.vercel.app/</p>
 
 
 
