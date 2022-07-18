@@ -36,7 +36,7 @@ Also, don't forget to look at https://samuel-centeno.vercel.app/ to check out so
 <p>&nbsp;</p>
 <h3>Most used languages</h3>
 <p>&nbsp;</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshtiger&show_icons=true&locale=en&layout=compact" alt="patostickar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshtiger&show_icons=true&locale=en&layout=compact" alt="harshtiger" /></p>
 
 <p>&nbsp;</p>
 
@@ -47,6 +47,21 @@ Also, don't forget to look at https://samuel-centeno.vercel.app/ to check out so
 <hr>
 
 ### My lastest projects: 
+
+
+<h2> Carry </h2>
+
+<br></br>
+
+<p> This is a car rental app, you can select a car model, a location, a payment method</p>
+<p> make a reservation, a review or manage users, locations and cars as an admin</p>
+<p>React, Redux, material UI, Styled Compoments, Vanilla JS, NodeJS, NodeExpress, Sequelize, PostgreSQL, Postman, Jest and Enzyme among others </p>
+<br></br>
+<img src="https://ibb.co/PWHC95p" alt="landing" border="0">
+<img src="https://ibb.co/0XQdrGS" alt="about" border="0">
+
+
+
 
 <h2> Food APP </h2>
 <br></br>
