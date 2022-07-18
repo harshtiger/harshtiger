@@ -57,7 +57,7 @@ Also, don't forget to look at https://samuel-centeno.vercel.app/ to check out so
 <p> make a reservation, a review or manage users, locations and cars as an admin</p>
 <p>React, Redux, material UI, Styled Compoments, Vanilla JS, NodeJS, NodeExpress, Sequelize, PostgreSQL, Postman, Jest and Enzyme among others </p>
 <br></br>
-<img src="https://ibb.co/PWHC95p" alt="landing" border="0">
+<img src="https://ibb.co/PWHC95p/p1.jpg" alt="landing" border="0">
 <img src="https://i.ibb.co/j5H1Dr2/p2.jpg" alt="about" border="0">
 
 
